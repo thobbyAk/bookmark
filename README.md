@@ -2,8 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
-## Development server
+## Running Project Locally
 
+clone project via [link](https://github.com/thobbyAk/bookmark.git)
+cd to folder(bookmark)
+Run `npm install` to install all dependencies,
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
